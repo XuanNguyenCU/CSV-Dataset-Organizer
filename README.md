@@ -1,8 +1,3 @@
-Contact Information
---------------------
-The project can be reached through: Omar Top
-Email: omartop@cmail.carleton.ca
-
 Date
 -----
 December 10, 2021
