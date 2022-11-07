@@ -27,7 +27,7 @@ Only built-in Python modules are used. Module “csv” is imported in the files
 
 Usage
 -------
-> python T028_P4_booksUI.py
+> python booksUI.py
 When prompted, enter the letter(s) that are displayed on the shell. For all commands, both upper-case and lower-case letters are accepted.
 The application will display the error message "No file loaded" if you attempt to use one of the 
 commands before you have loaded a file into the editor.
@@ -36,26 +36,27 @@ Press Q to quit and end the program.
 Credits
 --------
 Omar Top:
-- Functions find_books_by_title, get_books_by_publisher, and get_author_categories in T028_P2_search_modify_dataset.py
-- Functions sort_books_pageCount and sort_books_category in T028_P3_sorting.py
-- Command Line L)oad file, Command Line A)dd book, Command Line R)emove book, and Command Line F)ind book by title in T028_P4_booksUI.py
+- Functions find_books_by_title, get_books_by_publisher, and get_author_categories in search_modify_dataset.py
+- Functions sort_books_pageCount and sort_books_category in csv_sorting.py
+- Command Line L)oad file, Command Line A)dd book, Command Line R)emove book, and Command Line F)ind book by title in booksUI.py
 
 Connor Faucher:
 - P5_T028_load_dataset.py
-- Functions check_category_and_title, all_categories_for_book_title, and get_book_by_category_and_rate in T028_P2_search_modify_dataset.py
-- Functions sort_books_descending_rate and sort_books_publisher in T028_P3_sorting.py
+- Functions check_category_and_title, all_categories_for_book_title, and get_book_by_category_and_rate in search_modify_dataset.py
+- Functions sort_books_descending_rate and sort_books_publisher in csv_sorting.py
 - Command Line NC), Command Line CA), and Command Line CB), and Command line Q)uit in T028_P4_booksUI.py
 
 Xuan Nguyen:
-- Functions print_dictionary_category, remove_book,and get_books_by_rate in T028_P2_search_modify_dataset.py
-- Function sort_books_ascending_rate in T028_P3_sorting.py
-- Command Line S)ort book and its subcommands in T028_P4_booksUI.py
+- Functions print_dictionary_category, remove_book, and get_books_by_rate in search_modify_dataset.py
+- Function sort_books_ascending_rate in csv_sorting.py
+- Command Line S)ort book and its subcommands in booksUI.py
+- test files for functions in search_modify_dataset.py and csv_sorting
 
 John Coronado:
 - P5_T028_load_dataset.py
-- Functions add_book, get_books_by_author, and get_books_by_category in T028_P2_search_modify_dataset.py
-- Function sort_books_title in T028_P3_sorting.py
-- Command Line G)et book and its subcommands in T028_P4_booksUI.py 
+- Functions add_book, get_books_by_author, and get_books_by_category in search_modify_dataset.py
+- Function sort_books_title in csv_sorting.py
+- Command Line G)et book and its subcommands in booksUI.py 
 
 License
 --------
