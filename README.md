@@ -9,7 +9,7 @@ December 10, 2021
 
 Software’s Name and Version
 ----------------------------
-ECOR1042 T028_data_analyzer Project Version 1.0 10/12/2021
+CSV Data Analyzer Project Version 1.0 10/12/2021
 
 Description
 ------------
