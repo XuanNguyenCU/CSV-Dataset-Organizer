@@ -45,7 +45,7 @@ Xuan Nguyen:
 - Functions print_dictionary_category, remove_book, and get_books_by_rate in search_modify_dataset.py
 - Function sort_books_ascending_rate in csv_sorting.py
 - Command Line S)ort book and its subcommands in booksUI.py
-- test files for functions in search_modify_dataset.py and csv_sorting
+- Unit test files for functions in search_modify_dataset.py and csv_sorting
 
 John Coronado:
 - P5_T028_load_dataset.py
