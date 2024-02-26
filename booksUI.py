@@ -1,10 +1,9 @@
-#T028
 #John Coronado, Connor Faucher, Xuan Nguyen, Omar Top
 
 import csv
 from load_data import load_dataset
-from T028_P2_search_modify_dataset import *
-from T028_P3_sorting import *
+from search_modify_dataset import *
+from csv_sorting import *
 
 # UI Functions
 
